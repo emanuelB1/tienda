@@ -45,4 +45,4 @@ Contribuciones son bienvenidas. Si deseas mejorar el proyecto, sigue estos pasos
 
 **Tienda en Línea Responsiva** - Todos los derechos reservados.
 
-Hecho con ❤️ por [emanuelB1](https://github.com/emanuelB1)https://github.com/emanuelB1)
+Hecho con ❤️ por [emanuelB1](https://github.com/emanuelB1)
